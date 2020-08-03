@@ -15,15 +15,15 @@ I, Akhmad Najmuddin usually descend into the darkness of the Internet as SnekNOT
 
 ### Favorite Technologies
 
-[<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3282b8">][linux]
-[<img src="https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3282b8">][vscode]
-[<img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3282b8">][mongodb]
-[<img src="https://img.shields.io/badge/BackendFW-ExpressJS-informational?style=flat&logo=node.js&logoColor=white&color=3282b8">][expressjs]
-[<img src="https://img.shields.io/badge/FrontendFW-ReactJS-informational?style=flat&logo=react&logoColor=white&color=3282b8">][reactjs]
-[<img src="https://img.shields.io/badge/BackendCode-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=3282b8">][nodejs]
-[<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3282b8">][javascript]
-[<img src="https://img.shields.io/badge/WebAPI-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=3282b8">][graphql]
-[<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3282b8">][bash]
+[<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3282b8">][linux]<br>
+[<img src="https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3282b8">][vscode]<br>
+[<img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3282b8">][mongodb]<br>
+[<img src="https://img.shields.io/badge/BackendFW-ExpressJS-informational?style=flat&logo=node.js&logoColor=white&color=3282b8">][expressjs]<br>
+[<img src="https://img.shields.io/badge/FrontendFW-ReactJS-informational?style=flat&logo=react&logoColor=white&color=3282b8">][reactjs]<br>
+[<img src="https://img.shields.io/badge/BackendCode-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=3282b8">][nodejs]<br>
+[<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3282b8">][javascript]<br>
+[<img src="https://img.shields.io/badge/WebAPI-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=3282b8">][graphql]<br>
+[<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3282b8">][bash]<br>
 
 [youtube]: https://www.youtube.com/channel/UC-xLr--d2B3HA71kuip9pRg
 [reddit]: https://reddit.com/SnekNOTSnake
