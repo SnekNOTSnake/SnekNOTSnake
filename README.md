@@ -1,4 +1,4 @@
-![SNS-Igloo](./images/sns-igloo.png)
+![SNS-Igloo](https://github.com/SnekNOTSnake/SnekNOTSnake/blob/master/images/sns-igloo.png)
 
 ## Greetings, People! 🤝
 
