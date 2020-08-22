@@ -2,7 +2,7 @@
 
 # Greetings, People! 🤝
 
-I, Akhmad Najmuddin usually descend into the darkness of the Internet as SnekNOTSnake, am a student of life and truth (if there's any). The goal of my life is to find the meaning of life itself, but for now I'm in the middle of creating a new Chrome Extension. My other hobbies including playing Chess, and watching a historian rants about movie historical inaccuracies.
+I, Akhmad Najmuddin usually descend into the darkness of the Internet as SnekNOTSnake, am a student of life and truth (if there's any). The goal of my life is to find the meaning of life itself, but for now I'm in the middle of creating a Brand new app for my own self. My other hobbies including playing Chess, and watching a historian rants about movie historical inaccuracies.
 
 ## Join me on The Other Realm
 
