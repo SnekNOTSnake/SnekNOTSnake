@@ -5,7 +5,7 @@
 I, Akhmad Najmuddin usually descend into the darkness of the Internet as SnekNOTSnake, am a student of life and truth (if there's any). The goal of my life is to find the meaning of life itself, but for now I'm in the middle of creating a Brand new app for my own self. My other hobbies including playing Chess, and watching a historian rants about movie historical inaccuracies.
 
 ## Join me on The Other Realm
-
+[<img align="left" alt="SnekNOTSnake | YouTube" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][snsBlog]
 [<img align="left" alt="SnekNOTSnake | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="SnekNOTSnake | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" alt="SnekNOTSnake | Deviantart" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/deviantart.svg" />][deviantart]
@@ -38,3 +38,4 @@ I, Akhmad Najmuddin usually descend into the darkness of the Internet as SnekNOT
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [graphql]: https://github.com/graphql/graphql-js
 [bash]: https://www.gnu.org/software/bash/
+[snsBlog]: https://sns-blog.netlify.app/
