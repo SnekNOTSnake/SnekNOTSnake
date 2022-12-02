@@ -2,7 +2,7 @@
 
 # Greetings, People! 🤝
 
-I, Akhmad Najmuddin usually descend into the darkness of the Internet as SnekNOTSnake, am an overly proud Indonesian. My dream is to one day be an Artificial General Intelligence researcher so that we could cure people with Obsessive Compulsive Disorder. My other hobbies includes observing nature (especially forests, spiders, mountains, and rivers), cheering for Nigma Galaxy in Dota 2 tournaments, and watching historians rants about movie historical inaccuracies.
+I, Akhmad Najmuddin, usually descend into the darkness of the Internet as SnekNOTSnake, am an overly proud Indonesian. My dream is to one day be an Artificial General Intelligence researcher so that we could cure people with Obsessive Compulsive Disorder. My other hobbies include observing nature (especially forests, spiders, mountains, and rivers), cheering for Nigma Galaxy in Dota 2 tournaments, and watching historians rants about movie historical inaccuracies.
 
 ## Join me on The Other Realm
 [<img align="left" alt="SnekNOTSnake" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][snsBlog]
